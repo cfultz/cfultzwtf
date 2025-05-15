@@ -37,5 +37,10 @@ name = "Archidekt"
 url = "https://archidekt.com/u/cfultz/"
 
 [social.params]
-icon = "purple-archidekt"
+icon = "moxfield"
+
+[[social]]
+identifier = "moxfield"
+name = "Moxfield"
+url = "https://moxfield.com/users/cfultz/"
 
