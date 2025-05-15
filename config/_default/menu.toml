@@ -31,3 +31,11 @@ url = "https://steamcommunity.com/id/thesippycup/"
 [social.params]
 icon = "fa-steam"
 
+[[social]]
+identifier = "archidekt"
+name = "Archidekt"
+url = "https://archidekt.com/u/cfultz/"
+
+[social.params]
+icon = "purple-archidekt"
+
