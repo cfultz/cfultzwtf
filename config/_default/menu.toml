@@ -21,4 +21,4 @@ name = "Mastodon"
 url = "https://mastodon.social/@cfultz"
 
 [social.params]
-icon = "fa-brands fa-mastodon"
+icon = "fa-mastodon"
