@@ -5,7 +5,7 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 20025
+since = 2025
 customText = ""
 
 [dateFormat]
@@ -76,8 +76,8 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = false
-provider = "disqus"
+enabled = true
+provider = "cactus"
 
 [comments.disqusjs]
 shortname = ""
@@ -125,7 +125,7 @@ lang = ""
 [comments.cactus]
 defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
 serverName = "cactus.chat"
-siteName = ""
+siteName = "cfultz.wtf"
 
 [comments.giscus]
 repo = ""
