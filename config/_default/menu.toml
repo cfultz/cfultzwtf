@@ -13,7 +13,7 @@ name = "GitHub"
 url = "https://github.com/cfultz"
 
 [social.params]
-icon = "brand-github"
+icon = "fa-github"
 
 [[social]]
 identifier = "mastodon"
@@ -22,3 +22,12 @@ url = "https://mastodon.social/@cfultz"
 
 [social.params]
 icon = "fa-mastodon"
+
+[[social]]
+identifier = "steam"
+name = "Steam"
+url = "https://steamcommunity.com/id/thesippycup/"
+
+[social.params]
+icon = "fa-steam"
+
