@@ -141,7 +141,7 @@ emitMetadata = 0
 [comments.gitalk]
 owner = "cfultz"
 admin = "cfultz"
-repo = "https://github.com/cfultz/cfultzwtf"
+repo = "cfultz/cfultzwtf"
 clientID = "Ov23liR0k8SrCBsrTgrr"
 clientSecret = " b18138ec42711a1a288772226312327580330016"
 
