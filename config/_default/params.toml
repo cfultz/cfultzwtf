@@ -144,8 +144,6 @@ admin = "cfultz"
 repo = "cfultz/cfultzwtf"
 clientID = "Ov23liR0k8SrCBsrTgrr"
 clientSecret = "1836c2074ffc3e9462271acab191e38596680f04"
-id = location.pathname
-distractionFreeMode = true
 
 [comments.cusdis]
 host = ""
